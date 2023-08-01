@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('img/background-image.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  .converter {
+    margin-bottom: 20px;
+  }
+  label, input, select {
+    display: block;
+    margin-bottom: 10px;
+  }
+  #output {
+    font-weight: bold;
+  }
+  
